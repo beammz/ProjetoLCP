@@ -1,4 +1,4 @@
-package sistemaeventos;
+package classes;
 
 public class SistemaEventos {
 

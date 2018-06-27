@@ -9,7 +9,7 @@ package classes;
  *
  * @author beama
  */
-public class Usuário {
+public class Usuario {
     Long id;
     String nome;
     String cpf;
